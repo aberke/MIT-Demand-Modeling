@@ -109,3 +109,4 @@ venv.bak/
 # Avoid committing large data files - zips are okay.
 .dat
 
+*.pickle
