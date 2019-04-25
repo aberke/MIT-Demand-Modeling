@@ -107,6 +107,6 @@ venv.bak/
 .DS_Store
 
 # Avoid committing large data files - zips are okay.
-.dat
+*.dat
 
 *.pickle
